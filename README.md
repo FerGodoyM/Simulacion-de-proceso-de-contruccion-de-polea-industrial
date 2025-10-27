@@ -84,8 +84,6 @@ jupyter lab
 └─ 4_diagrama_gantt_poleas.png
 ```
 
-Si encuentras referencias a `simulacion.py` en versiones anteriores, el notebook contiene la implementación actual; si prefieres un script `.py` para ejecución por línea de comandos puedo extraerlo del notebook y añadirlo.
-
 ## Autor
 
 Fernando Godoy Marín
