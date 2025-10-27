@@ -89,9 +89,3 @@ Si encuentras referencias a `simulacion.py` en versiones anteriores, el notebook
 ## Autor
 
 Fernando Godoy Marín
-
-
-
-## Licencia
-
-Incluye aquí la licencia que prefieras (por ejemplo: MIT). Si no, puedo agregar una plantilla MIT.
