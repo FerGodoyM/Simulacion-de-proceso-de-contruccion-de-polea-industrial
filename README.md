@@ -1,0 +1,1 @@
+# Simulacion-de-proceso-de-contruccion-de-polea-industrial
